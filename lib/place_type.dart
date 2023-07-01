@@ -32,7 +32,7 @@ class _PlaceTypeViewState extends State<PlaceTypeView> {
                 labelColor: Colors.white,
                 unselectedLabelColor: Colors.black,
                 padding: EdgeInsets.symmetric(horizontal: 8),
-                tabs: [
+                tabs: const [
                   Tab(
                     text: 'Home',
                   ),
